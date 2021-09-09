@@ -13,3 +13,4 @@ ZCZC W01 25 L02 ZOOM meetings related
 ZCZC W01 10 L21 Trying something
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 20 L06 References/Books/Documents/GSGS related
+ZCZC W01 60 L11 Assignment #01
