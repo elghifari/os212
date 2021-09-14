@@ -21,5 +21,6 @@ ZCZC W01 25 L11 Assignment #01
 ZCZC W01 30 L06 References/Books/Documents/GSGS related
 ZCZC W01 30 L21 Trying something
 ZCZC W01 50 L06 References/Books/Documents/GSGS related
+ZCZC W01 100 L11 Assignment #01
 ZCZC W02 20 L22 Quiz
 ZCZC W02 70 L02 ZOOM meetings related
