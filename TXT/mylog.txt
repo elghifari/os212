@@ -29,3 +29,11 @@ ZCZC W02 80 L09 Assignment in General
 ZCZC W02 15 L07 Demo related
 ZCZC W02 25 L03 GitHub related
 ZCZC W02 60 L21 Trying something
+ZCZC W03 90 L02 ZOOM meetings related
+ZCZC W03 60 L09 Assignment in General
+ZCZC W03 10 L03 GitHub related
+ZCZC W03 40 L07 Demo related
+ZCZC W03 30 L06 References/Books/Documents/GSGS related
+ZCZC W03 20 L09 Assignment in General
+ZCZC W03 25 L21 Trying something
+ZCZC W03 20 L06 References/Books/Documents/GSGS related
