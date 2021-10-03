@@ -37,3 +37,14 @@ ZCZC W03 30 L06 References/Books/Documents/GSGS related
 ZCZC W03 20 L09 Assignment in General
 ZCZC W03 25 L21 Trying something
 ZCZC W03 20 L06 References/Books/Documents/GSGS related
+ZCZC W04 60 L02 ZOOM meetings related
+ZCZC W04 30 L06 References/Books/Documents/GSGS related
+ZCZC W04 40 L09 Assignment in General
+ZCZC W04 25 L07 Demo related
+ZCZC W04 20 L22 Quiz
+ZCZC W04 30 L06 References/Books/Documents/GSGS related
+ZCZC W04 20 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 20 L06 References/Books/Documents/GSGS related
+ZCZC W04 30 L06 References/Books/Documents/GSGS related
+ZCZC W04 15 L03 GitHub related
+ZCZC W04 20 L01 SCELE/Discord related
