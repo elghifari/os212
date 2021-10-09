@@ -48,3 +48,11 @@ ZCZC W04 20 L06 References/Books/Documents/GSGS related
 ZCZC W04 30 L06 References/Books/Documents/GSGS related
 ZCZC W04 15 L03 GitHub related
 ZCZC W04 20 L01 SCELE/Discord related
+ZCZC W05 20 L22 Quiz
+ZCZC W05 60 L02 ZOOM meetings related
+ZCZC W05 40 L07 Demo related
+ZCZC W05 30 L06 References/Books/Documents/GSGS related
+ZCZC W05 20 L06 References/Books/Documents/GSGS related
+ZCZC W05 15 L03 GitHub related
+ZCZC W05 20 L09 Assignment in General
+ZCZC W05 90 L06 References/Books/Documents/GSGS related
