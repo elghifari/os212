@@ -13,3 +13,7 @@ permalink: /LINKS/
    The video does exactly what the title says, and does it well, too.
 5. [**Pointers**](https://www.youtube.com/watch?v=mw1qsMieK5c)  
    Gives an insight on what pointers do in C.
+6. [**Fork()**](https://www.section.io/engineering-education/fork-in-c-programming-language/)  
+   Explains what a fork command does in C with visualizations
+7. [**Threads and Concurrency**](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)  
+   Summarizes threads and concurrency concisely using examples and visualizations
