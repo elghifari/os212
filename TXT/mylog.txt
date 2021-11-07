@@ -57,8 +57,17 @@ ZCZC W05 15 L03 GitHub related
 ZCZC W05 20 L09 Assignment in General
 ZCZC W05 90 L06 References/Books/Documents/GSGS related
 ZCZC W06 30 L09 Assignment in General
-ZCZC W05 30 L07 Demo related
-ZCZC W04 10 L01 SCELE/Discord related
-ZCZC W05 60 L06 References/Books/Documents/GSGS related
-ZCZC W04 15 L03 GitHub related
-ZCZC W05 40 L06 References/Books/Documents/GSGS related
+ZCZC W06 30 L07 Demo related
+ZCZC W06 10 L01 SCELE/Discord related
+ZCZC W06 60 L06 References/Books/Documents/GSGS related
+ZCZC W06 15 L03 GitHub related
+ZCZC W06 40 L06 References/Books/Documents/GSGS related
+ZCZC W07 60 L02 ZOOM meetings related
+ZCZC W07 15 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 30 L06 References/Books/Documents/GSGS related
+ZCZC W07 50 L06 References/Books/Documents/GSGS related
+ZCZC W07 25 L07 Demo related
+ZCZC W07 30 L21 Trying something
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 80 L09 Assignment in General
+ZCZC W07 20 L03 GitHub related
