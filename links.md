@@ -17,3 +17,7 @@ permalink: /LINKS/
    Explains what a fork command does in C with visualizations
 7. [**Threads and Concurrency**](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)  
    Summarizes threads and concurrency concisely using examples and visualizations
+8. [**Process Synchronization**](https://www.guru99.com/process-synchronization.html)  
+   Describes what process synchronization is and what it does in operating systems
+9. [**Deadlocks**](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)  
+   Visualizes different types of deadlocks and explains how to detect and prevent them
